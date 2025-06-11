@@ -35,3 +35,5 @@ Some Things Added by m2_zm:
 canvasland.net Added
 
 PixUniverse.fun Removed(Ended)
+
+Note: Use [sca.canvasland.net](https://sca.canvasland.net)
