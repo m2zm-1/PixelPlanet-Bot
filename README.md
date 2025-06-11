@@ -29,3 +29,9 @@ Bot for [pixelplanet.fun](https://pixelplanet.fun)
 
 **[Tell me about suggestions or bugs](https://discord.gg/VyfVmD2nhZ)**<br/>
 **[You can also help me with your donation](https://boosty.to/touchedbydarkness)**
+
+Some Things Added by m2_zm:
+
+canvasland.net Added
+
+PixUniverse.fun Removed(Ended)
