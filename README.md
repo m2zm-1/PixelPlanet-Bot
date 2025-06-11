@@ -17,7 +17,7 @@ Now your Tampermonkey is installed on your phone (installed with Firefox or Kiwi
 
 Then open a new script and select all the codes in this .js file with Ctrl+A. Then copy and paste it to the new Tampermonkey script. Don't forget to save!
 
-And BOOM! Captcha Solver Work.
+And BOOM! Bot Works.
 
 -cya
 
