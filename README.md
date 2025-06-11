@@ -1,32 +1,3 @@
-Bot for [pixelplanet.fun](https://pixelplanet.fun)
-
-**Installation**<br/>
-1. [Download Tampermonkey](https://www.tampermonkey.net)
-2. [Install bot](https://touchedbydarkness.github.io/stuff/ppf_bot_2/initer.user.js)
-
-**Usage**<br/>
-  Choose coordinates and image.<br/>
-  The colors of the image will be automatically converted if you don't care about it, but better use the site converter.<br/>
-  Press key "N" to set the start coordinates.<br/>
-  Press key "B" to start or stop.<br/>
-  The bot supports several fill strategies and fill color selection.<br/>
-  If a captcha appears, the bot will notify you (need to enable notification).<br/>
-  After solving captcha press "B" to continue bot work.
-
-**Detailed instructions**<br/>
-**Strategy**
- * *Random*
-    Just random.
- * *linear*
-    Paints from top to bottom with lines.
- * *Center*
-    Circle expanding from the center to the edges.
- * *Chess*
-    Draws from top to bottom in chess, grid... I think you get the idea.
-
-**Notes**<br/>
-  * Bot also works for [pixmap.fun](https://pixmap.fun), [chillpixel.xyz](https://chillpixel.xyz), [pixelya.fun](https://pixelya.fun) and [pixuniverse.fun](https://pixuniverse.fun)
-
 **[Tell me about suggestions or bugs](https://discord.gg/VyfVmD2nhZ)**<br/>
 **[You can also help me with your donation](https://boosty.to/touchedbydarkness)**
 
@@ -37,3 +8,17 @@ canvasland.net Added
 PixUniverse.fun Removed(Ended)
 
 Note: Use [sca.canvasland.net](https://sca.canvasland.net)
+
+I Will Answer A Typical Question:
+
+How Do I Use It?
+
+Now your Tampermonkey is installed on your phone (installed with Firefox or Kiwi Browser) or on your computer. First of all, enter Tampermonkey's Script Control Panel
+
+Then open a new script and select all the codes in this .js file with Ctrl+A. Then copy and paste it to the new Tampermonkey script. Don't forget to save!
+
+And BOOM! Captcha Solver Work.
+
+-cya
+
+m2_zm // 11.06.2025 // Turkiye
