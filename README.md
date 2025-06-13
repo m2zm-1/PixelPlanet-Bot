@@ -22,3 +22,7 @@ And BOOM! Bot Works.
 -cya
 
 m2_zm // 11.06.2025 // Turkiye
+
+The bot is not mine, I just added Canvasland support, the bot's repo:
+
+https://github.com/TouchedByDarkness/PixelPlanet-Bot
